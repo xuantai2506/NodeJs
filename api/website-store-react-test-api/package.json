@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
